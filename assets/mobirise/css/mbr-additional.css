@@ -1098,12 +1098,6 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-tV24sNYSOA {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #cb0000;
-  overflow: hidden;
-}
 .cid-tVdWuM5JOI {
   background-color: #edefeb;
 }
@@ -1591,6 +1585,12 @@ a {
 .cid-tWrEQDKqph .card-text4,
 .cid-tWrEQDKqph .mbr-section-btn {
   color: #ffffff;
+}
+.cid-tV24sNYSOA {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #cb0000;
+  overflow: hidden;
 }
 .cid-tV24wPxfWq {
   z-index: 1000;
